@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - boost (1.51.0):
+    - boost/graph-includes (= 1.51.0)
+    - boost/math-includes (= 1.51.0)
+    - boost/numeric-includes (= 1.51.0)
+    - boost/pointer_cast-includes (= 1.51.0)
+    - boost/preprocessor-includes (= 1.51.0)
+    - boost/shared_ptr-includes (= 1.51.0)
+    - boost/string_algorithms-includes (= 1.51.0)
+  - boost/graph-includes (1.51.0)
+  - boost/math-includes (1.51.0)
+  - boost/numeric-includes (1.51.0)
+  - boost/pointer_cast-includes (1.51.0)
+  - boost/preprocessor-includes (1.51.0)
+  - boost/shared_ptr-includes (1.51.0)
+  - boost/string_algorithms-includes (1.51.0)
+  - libpng (1.6.35)
+  - lottie-ios (3.2.3)
+  - Protobuf (3.21.12)
+
+DEPENDENCIES:
+  - Alamofire
+  - boost (~> 1.51.0)
+  - libpng
+  - lottie-ios
+  - Protobuf (~> 3.21.12)
+
+SPEC REPOS:
+  http://localhost:8081/repository/cocoapods-proxy/:
+    - Alamofire
+    - boost
+    - libpng
+    - lottie-ios
+    - Protobuf
+
+SPEC CHECKSUMS:
+  Alamofire: 106a65f4de3d4210e74b6c26bea9a3e10efc59dc
+  boost: 77c2af67ccc6eecc46286a1a4772cc422c9f310e
+  libpng: 55af526e36f6fe7cfe39554cefb70d01299e9c1d
+  lottie-ios: 6c2da2ef923d6a6c3ea4061b06ab330a3fc9058a
+  Protobuf: 5aac87af08ae10246b066316e731f5e0fd52845a
+
+PODFILE CHECKSUM: a28114c01c982ce3b0eec1de51ea60821dd64fde
+
+COCOAPODS: 1.11.3

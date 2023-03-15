@@ -1,0 +1,6 @@
+framework module Pods_SCA_Demo_SCA_DemoUITests {
+  umbrella header "Pods-SCA-Demo-SCA-DemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
